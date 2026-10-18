@@ -1,0 +1,11 @@
+node_modules/
+vendor/
+*.wav
+*.tmp
+__pycache__/
+*.pyc
+.env
+.envrc
+package-lock.json
+uv.lock
+.DS_Store
